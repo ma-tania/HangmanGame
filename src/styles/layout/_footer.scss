@@ -1,0 +1,33 @@
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 2rem 0;
+
+  * {
+    font-size: 1rem;
+  }
+
+  &__menu-item {
+    display: inline-block;
+    list-style: none;
+  }
+
+  &__menu-link {
+    padding-right: 2rem;
+    text-decoration: none;
+
+    &.active {
+      text-decoration: none;
+    }
+  }
+  &__info{
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  &-icon{
+  padding: 0.5rem;
+  }
+  }
+
+}
