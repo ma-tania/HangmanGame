@@ -5,7 +5,7 @@ Está creado con React+Vite.
 
 ## Instalación
 
-1. Abre mi proyecto desde esta dirección: 
+1. Abre mi proyecto desde esta dirección: https://ma-tania.github.io/HangmanGame/
 2. Clona este repositorio
 3. Ejecuta en la terminar los siguientes comandos:
 
